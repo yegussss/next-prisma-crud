@@ -1,0 +1,4 @@
+ORM: Object relational mapping.
+Código de JS que nos permite comincarnos con una DB sin necesidad de código en SQL o en lenguaje de DB
+Sólo con escribir JS es lo necesario.
+
